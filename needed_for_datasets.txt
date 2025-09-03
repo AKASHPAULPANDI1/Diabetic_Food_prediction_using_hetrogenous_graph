@@ -1,0 +1,55 @@
+glucose measurement:
+	Continuous Glucose Monitoring (CGM) Data
+	Self-Monitoring Blood Glucose (SMBG)
+	Glucose Variability Metrics
+
+ Insulin Data:
+	Basal Insulin
+	Bolus Insulin
+	Insulin Pump Data
+	Insulin Sensitivity Factors
+
+Meal and Nutrition Data:
+	Carbohydrate Intake
+	Meal Timing
+	Meal Composition
+	Meal Size and Type
+
+Physical Activity Data:
+	Activity Type and Intensity
+	Duration and Timing
+	Step Counts or Accelerometer Data
+
+Patient Demographics and Clinical Data:
+	Basic Demographics
+		age, sex, BMI
+	Medical History
+	Medication Use
+		Other medications affecting glucose metabolism.
+	Lab Results:
+		HbA1c, lipid profile, kidney function tests.
+	Lifestyle Factors:
+		Smoking status, alcohol use, diet quality.
+
+Other Physiological and Contextual Data:
+	Stress and Sleep:
+ 		Stress levels, sleep duration and quality.
+	Hormonal Data:
+		Cortisol, glucagon levels if available.
+	Environmental Factors:
+		Temperature, season, altitude.
+	Time Information:
+		Time of day, day of week, to capture circadian effects.
+
+Event Annotations:
+	Hypoglycemic Events:
+		Documented episodes with severity and timing.
+	Hyperglycemic Events:
+		Episodes and related symptoms.
+	Other Relevant Events:
+		Illness, medication changes, hospitalizations.
+
+Data Quality Indicators:
+	Sensor Calibration Logs:
+		Information on CGM calibration events.
+	Missing Data Flags:
